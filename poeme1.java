@@ -1,4 +1,4 @@
-public class poeme1 extends troisiemeClasse{
+public class poeme1 {
     // poeme1 john
     for i= ... ...
     // nouveau conflit 
