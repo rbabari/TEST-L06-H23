@@ -1,4 +1,4 @@
-public class poeme1 extends Object {
+public class poeme1 extends deuxiemeClass{
     // poeme1 john
-    // creer une modifiation
+    for i= ... 
 }
