@@ -1,8 +1,5 @@
-public class poeme1 extends autreClass {
+public class poeme1 extends deuxiemeClass{
     // poeme1 john
-    
-    //----Pemem raouf ... 
-    
+    for i= ... 
+}
 
-}}}
-// bla bla 
